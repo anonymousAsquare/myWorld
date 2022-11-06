@@ -1,0 +1,9 @@
+
+    movePOIX1 += addPOIX
+    movePOIX2 += addPOIX
+    movePOIY1 += addPOIY
+    movePOIY2 += addPOIY
+    if ((movePOIX1 == (width - addPOIX) and movePOIX2 == width) or (movePOIX1 == 0 and movePOIX2 == addPOIX)):
+        addPOIX *= -1
+    if ((movePOIY1 == (height - addPOIY) and movePOIY2 == height) or (movePOIY1 == 0 and movePOIY2 == addPOIY)):
+        addPOIY *= -1

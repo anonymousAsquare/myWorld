@@ -1,0 +1,2 @@
+(2){"type":"analytics.deviceInfo.v1","msg":{"ts":1650048561798,"adsid":"895b2003-e535-429e-9f29-b5ae5ee43997","ads_tracking":true}}
+(1){"type":"perf.startupTime.v1","msg":{"ts":1650048562989,"gfx_done":4319656,"first_scene":4384838,"scene_init":7018290,"scene_done":8246945,"splash_begin":4384931,"splash_fading_out":6399103}}
